@@ -1,2 +1,2 @@
 # SpaceApps_MeteorMadness
-impact simulation
+This is a prototype of an impact simulation. It allows users to set the parameters of a meteorite and calculates the resulting crater size, shockwave radius, and fireball extent, then visualizes these on a map, offering a clear representation of the potential destruction. Developed using Python, Streamlit, and Folium, the project aims to educate and raise awareness about the scale of asteroid impacts in an accessible and engaging way.
